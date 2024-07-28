@@ -1,2 +1,2 @@
 # MongoDB_day2_task
-MongoDB day 2 task
+Creating a DB using json and performing aggregate functions in MongoDB
